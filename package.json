@@ -1,4 +1,3 @@
-
 {
   "name": "nueva-carpeta--4-",
   "private": true,
@@ -10,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "daisyui": "^5.0.50",
     "vite": "^6.3.5"
   },
   "dependencies": {
